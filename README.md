@@ -6,9 +6,9 @@
 - **Dotenv**: Para la gestión segura de claves de API.
 ## Ejemplo de Uso
 ---
-Elija una opción válida:
+### Elija una opción válida:
 1
-Ingresa el valor a convertir:
+### Ingresa el valor a convertir:
 25
 Salida:
 El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]
