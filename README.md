@@ -11,6 +11,7 @@
 <p>25</p>
 <p>Salida:</p>
 <p>El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]</p>
+![image](https://github.com/user-attachments/assets/8751e033-e952-4ddc-a471-caa69b7d302f)
 <h2>Lecciones Aprendidas</h2>
 <ol>
    <li>Consumo de APIs en Java: <br> Cómo realizar solicitudes HTTP y manejar respuestas.</li>
