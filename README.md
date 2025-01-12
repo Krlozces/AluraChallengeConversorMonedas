@@ -11,6 +11,7 @@
 <p>25</p>
 Salida:
 El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]
+---
 ## Lecciones Aprendidas
 1. Consumo de APIs en Java:
    - Cómo realizar solicitudes HTTP y manejar respuestas.
@@ -18,3 +19,4 @@ El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]
    - Uso de Gson para analizar datos JSON.
 3. Gestión de Claves:
    - Seguridad al almacenar claves API usando Dotenv.
+---
