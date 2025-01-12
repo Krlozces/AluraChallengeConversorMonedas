@@ -5,13 +5,12 @@
 - **Java.net.Http**: Para realizar solicitudes HTTP a la API.
 - **Dotenv**: Para la gestión segura de claves de API.
 ## Ejemplo de Uso
-Elija una opción válida:
-1
+<p>Elija una opción válida:</p>
+<p>1</p>
 ### Ingresa el valor a convertir:
 <p>25</p>
 Salida:
 El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]
----
 ## Lecciones Aprendidas
 1. Consumo de APIs en Java:
    - Cómo realizar solicitudes HTTP y manejar respuestas.
