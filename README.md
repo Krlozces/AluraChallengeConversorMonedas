@@ -11,10 +11,9 @@
 <p>25</p>
 <p>Salida:</p>
 <p>El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]</p>
-## Lecciones Aprendidas
-1. Consumo de APIs en Java:
-   - Cómo realizar solicitudes HTTP y manejar respuestas.
-2. Manejo de JSON:
-   - Uso de Gson para analizar datos JSON.
-3. Gestión de Claves:
-   - Seguridad al almacenar claves API usando Dotenv.
+<h2>Lecciones Aprendidas</h2>
+<ol>
+   <li>Consumo de APIs en Java: <br> Cómo realizar solicitudes HTTP y manejar respuestas.</li>
+   <li>Manejo de JSON: <br> Uso de Gson para analizar datos JSON.</li>
+   <li>Gestión de Claves: <br> Seguridad al almacenar claves API usando Dotenv.</li>
+</ol>
