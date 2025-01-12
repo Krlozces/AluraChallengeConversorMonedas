@@ -7,7 +7,7 @@
 ## Ejemplo de Uso
 <p>Elija una opción válida:</p>
 <p>1</p>
-<h2>Ingresa el valor a convertir:</h2>
+<p>Ingresa el valor a convertir:</p>
 <p>25</p>
 Salida:
 El valor 25.0 [USD] corresponde al valor final de =>> 25993.75 [ARS]
